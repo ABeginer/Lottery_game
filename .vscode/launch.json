@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "testJson.test",
+            "projectName": "VS code Java Projects_cf178a52"
+        },
+        {
+            "type": "java",
+            "name": "Monopoly",
+            "request": "launch",
+            "mainClass": "Monopoly.ui.Monopoly",
+            "projectName": "VS code Java Projects_cf178a52"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "lab3.main",
+            "projectName": "VS code Java Projects_cf178a52"
+        },
+        {
+            "type": "java",
+            "name": "Monopoly",
+            "request": "launch",
+            "mainClass": "Monopoly.Monopoly",
+            "projectName": "VS code Java Projects_cf178a52"
+        },
+        {
+            "type": "java",
+            "name": "Executor",
+            "request": "launch",
+            "mainClass": "GuiHelloWorld.Executor",
+            "projectName": "VS code Java Projects_cf178a52"
+        },
+        {
+            "type": "java",
+            "name": "GUI",
+            "request": "launch",
+            "mainClass": "GUI.GUI",
+            "projectName": "VS code Java Projects_cf178a52"
+        },
+        {
+            "type": "java",
+            "name": "LotteryGame",
+            "request": "launch",
+            "mainClass": "LotteryGame.LotteryGame",
+            "projectName": "VS code Java Projects_cf178a52"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoxOfParticles",
+            "request": "launch",
+            "mainClass": "BoxOfParticles.BoxOfParticles",
+            "projectName": "VS code Java Projects_cf178a52"
+        }
+    ]
+}
